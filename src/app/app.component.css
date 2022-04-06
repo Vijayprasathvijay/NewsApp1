@@ -1,0 +1,50 @@
+h1
+{
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-style: italic;
+    border: 2em;
+    font-size: xx-large;
+    color:blueviolet;
+}
+.form-group
+{
+    text-align: center;
+    font-size: medium;
+}
+.background-image
+{
+    background-image: url('/assets/images/news.jpg') ;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 100vh;
+    
+}
+label
+{
+    color:black;
+    font-size: larger;
+}
+button
+{
+    position: absolute;
+    bottom: 0;    
+    float: right;
+    right: 5px;
+    left: 5px;
+}
+p
+{
+    text-align: center;
+    position: absolute;
+    top: 500px;
+    left: 570px;
+}
+a
+{
+    text-align: center;
+    position: absolute;
+    top: 520px;
+    left: 620px;
+}
